@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/mendel3
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://thisismysite.me
+  * I am mendel3 (https://keybase.io/mendel3) on keybase.
+  * I have a public key ASCodFZSoCuyWd6JbvB0h67PN-d8hQ07TDLepWvEOBq2Qwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120a8745652a02bb259de896ef07487aecf37e77c850d3b4c32dea56bc4381ab6430a",
+      "host": "keybase.io",
+      "kid": "0120a8745652a02bb259de896ef07487aecf37e77c850d3b4c32dea56bc4381ab6430a",
+      "uid": "ef2945241f23914ecaf8fe8bb971cf19",
+      "username": "mendel3"
+    },
+    "merkle_root": {
+      "ctime": 1533924801,
+      "hash": "1149f8ddda7f2bd6209c6c8e08f7520b133e9ce29cbecf037980f61f09177dbfe2dfcfad43531aa152f15f768207d7e30e1c087503a8814d01bc6f4c8ecd50e1",
+      "hash_meta": "546ca39fafdbde12cf1b02b26d02788bf649cd2e838d9a768d5c35db2bee8f27",
+      "seqno": 3439331
+    },
+    "service": {
+      "entropy": "ycwaJCrnhfiVQefif0NKty0u",
+      "hostname": "thisismysite.me",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.5.1"
+  },
+  "ctime": 1533924818,
+  "expire_in": 504576000,
+  "prev": "82fb052da27103b1cbae4ab96ab993d588c665ecde593007b42d9558a4b86f1b",
+  "seqno": 16,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgqHRWUqArslneiW7wdIeuzzfnfIUNO0wy3qVrxDgatkMKp3BheWxvYWTESpcCEMQggvsFLaJxA7HLrkq5armT1YjGZezeWTAHtC2VWKS4bxvEICXSHu/DGYlttuyII3TzxGn4mqcreC3Jcx+Oi8mLXD1MAgHCo3NpZ8RA1vsCjGnlaHgTCUOIBCiENxdcGkMN9XEjDPDuijONOSRnwuu4k+Il99xAXOjI8hKsrcGP6JdXcqJMbXB++Ym6BqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIArD4YO8d3eXfDKfAJUF9eoOdZnkbwu3GpqTHoUF/MZao3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mendel3
+
+==================================================================
