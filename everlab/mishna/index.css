@@ -34,3 +34,10 @@ h2{
 p{
     font-size: 1.5em;
 }
+.second-row { 
+    flex-grow: 1; 
+    border: none; 
+    margin: 0; 
+    padding: 0;
+    height: 730px;
+}
